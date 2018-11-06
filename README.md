@@ -1,5 +1,5 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student: Martijn Liebrand
+# Naam Student: Martijn Liebrand test
 ## Studentnummer: 0123456789
 ## Klas: Bin-2abc
 
